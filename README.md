@@ -12,4 +12,4 @@ Repository for Flutter Understanding
 > 플러터 프레임워크와 아키텍처 핵심 정리
 
 ### 🧱 Core Fundamentals
-
+- [ ] Fltter Rendeing : [상세보기](./flutter/widget-code-to-hardware.md)
