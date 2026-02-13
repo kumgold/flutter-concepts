@@ -14,3 +14,4 @@ Repository for Flutter Understanding
 ### 🧱 Core Fundamentals
 - [ ] Flutter Rendering : [상세보기](./flutter/widget-code-to-hardware.md)
 - [ ] Flutter's Trinity : [상세보기](./flutter/flutter-trinity.md)
+- [ ] Flutter Layout Algorithm : [상세보기](./flutter/layout-algorithm.md)
