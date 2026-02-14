@@ -15,3 +15,9 @@ Repository for Flutter Understanding
 - [ ] Flutter Rendering : [상세보기](./flutter/widget-code-to-hardware.md)
 - [ ] Flutter's Trinity : [상세보기](./flutter/flutter-trinity.md)
 - [ ] Flutter Layout Algorithm : [상세보기](./flutter/layout-algorithm.md)
+
+## Dart
+> 다트 문법과 개념
+
+### 📚 Basic
+- [ ] Dart's Driving Principles and Variable Systems : [상세보기](./dart/characteristics-of-dart.md)
