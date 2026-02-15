@@ -23,3 +23,7 @@ Repository for Flutter Understanding
 - [ ] Dart's Driving Principles and Variable Systems : [상세보기](./dart/characteristics-of-dart.md)
 - [ ] Dart's OOP : [상세보기](./dart/oop.md)
 - [ ] Asynchronous Programming : [상세보기](./dart/asynchronous.md)
+
+### 🧩 Modern Dart
+- [ ] Records & Patterns : [상세보기](./dart/records-patterns.md)
+
