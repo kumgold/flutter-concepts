@@ -11,17 +11,17 @@
 ```dart
 // 1. 위치 기반 필드 (Positional fields)
 (String, int) getUser() {
-  return ('Junghun', 29);
+  return ('User name', 291);
 }
 
 // 2. 이름 지정 필드 (Named fields)
 ({String name, int age}) getUserDetail() {
-  return (name: 'Junghun', age: 29);
+  return (name: 'user name', age: 291);
 }
 
 void main() {
   final user = getUser();
-  print(user.$1); // Junghun ($1, $2 순서로 접근)
+  print(user.$1); // user name ($1, $2 순서로 접근)
   
   final detail = getUserDetail();
   print(detail.name); // 이름으로 직접 접근 가능
@@ -36,7 +36,7 @@ void main() {
 
 ```dart
 void main() {
-  var user = ('Junghun', 29);
+  var user = ('user name', 291);
   
   // Kotlin의 val (name, age) = user 와 동일
   var (name, age) = user;
