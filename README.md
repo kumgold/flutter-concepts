@@ -26,4 +26,5 @@ Repository for Flutter Understanding
 
 ### 🧩 Modern Dart
 - [ ] Records & Patterns : [상세보기](./dart/records-patterns.md)
+- [ ] Class Modifiers & Sealed class : [상세보기](./dart/class-modifiers.md)
 
